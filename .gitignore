@@ -1,32 +1,23 @@
-# Prerequisites
-*.d
+# Visual C++ cache files
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+.vs/
 
-# Precompiled Headers
-*.gch
-*.pch
+*.ipch 
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+ipch/
 
-# Fortran module files
-*.mod
-*.smod
+*.aps
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+*.ncb
 
-# Executables
-*.exe
-*.out
-*.app
+*.opendb
+
+*.opensdf
+
+*.sdf
+
+*.cachefile
+
+*.VC.db
+
+*.VC.VC.opendb
